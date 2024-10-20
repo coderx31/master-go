@@ -1,0 +1,6 @@
+goos: darwin
+goarch: arm64
+pkg: 100-go-mistakes/map_initializing
+BenchmarkCreateMap-8   	      54	 229586767 ns/op	139840407 B/op	 2038013 allocs/op
+PASS
+ok  	100-go-mistakes/map_initializing	22.319s

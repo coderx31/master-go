@@ -1,0 +1,6 @@
+goos: darwin
+goarch: arm64
+pkg: 100-go-mistakes/slice_pointers
+BenchmarkKeepFirstTwoElementsOnly-8   	35458642	       320.2 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	100-go-mistakes/slice_pointers	12.030s

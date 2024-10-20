@@ -1,0 +1,6 @@
+goos: darwin
+goarch: arm64
+pkg: 100-go-mistakes/slice_initializing
+BenchmarkCreateSlice-8   	 4318148	      2798 ns/op	   25208 B/op	      12 allocs/op
+PASS
+ok  	100-go-mistakes/slice_initializing	15.223s

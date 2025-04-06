@@ -24,8 +24,7 @@ package main
 
 /**
  - how we can reduce the amount of memory allocated ?
-
-	- the rule of thumb is to reorganize a struct so that its fields are sorted by type size
+ - the rule of thumb is to reorganize a struct so that its fields are sorted by type size
 	in descending order
 */
 

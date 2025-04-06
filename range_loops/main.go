@@ -1,7 +1,7 @@
 package main
 
 /** (in Go, everything we assign is a copy)
- - if we assign the result of a function returning a struct, it performs a copy of that struct
+- if we assign the result of a function returning a struct, it performs a copy of that struct
 - if we assign the result if a function returning a pointer, it performs a copy of that memory address
 */
 

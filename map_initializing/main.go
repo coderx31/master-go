@@ -8,7 +8,7 @@ import (
 )
 
 /**
-The reason is that the number of buckets in a map cannot shrink, therefore removing elements from a ma doesn't impact
+The reason is that the number of buckets in a map cannot shrink, therefore removing elements from a map doesn't impact
 the number of existing buckets.
 */
 
